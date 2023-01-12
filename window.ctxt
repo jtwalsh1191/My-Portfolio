@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=window
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ window\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=window()
+comment2.params=
+comment2.target=void\ makeWindow()
+comment3.params=
+comment3.target=void\ menuBuilder()
+comment4.params=
+comment4.target=void\ tileBuilder()
+comment5.params=
+comment5.target=java.lang.String\ turnChange()
+comment6.params=tempX_O
+comment6.target=void\ checkComplete(java.lang.String)
+comment7.params=winner
+comment7.target=void\ endGame(java.lang.String)
+comment8.params=winner
+comment8.target=void\ resetGame(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
