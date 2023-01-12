@@ -1,12 +1,7 @@
 import java.util.*;
 import java.awt.*;
 import javax.swing.*;
-/**
- * Write a description of class window here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class window
 {
     private JFrame window;
